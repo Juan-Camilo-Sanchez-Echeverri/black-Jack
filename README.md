@@ -14,7 +14,7 @@ Pasos para ejecutar el juego:
 
 ## Demo
 
-[BlackJack](https://juancamilosanchez.me/blackjack/)
+[BlackJack](https://juancamilosanchez.me/black-Jack/)
 
 ## Descripción
 
