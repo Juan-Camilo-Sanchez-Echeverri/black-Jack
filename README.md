@@ -7,7 +7,7 @@ Pasos para ejecutar el juego:
 3. Ejecutar el comando `npm run dev o yarn dev` en la terminal
 4. Abrir el navegador en la dirección `http://localhost:5173/`
 
-## Prodcucción
+## Producción
 
 1. Ejecutar el comando `npm run build o yarn build` en la terminal
 2. Tomar los archivos de la carpeta `dist` y subirlos a un servidor
