@@ -14,7 +14,7 @@ Pasos para ejecutar el juego:
 
 ## Demo
 
-[BlackJack](https://juancamilosanchez.me/black-Jack/)
+[BlackJack](https://juancamilosanchez.tech/black-Jack/)
 
 ## Descripción
 
@@ -44,4 +44,4 @@ El juego consiste en que el jugador debe sumar 21 puntos o acercarse lo más pos
 
 ## Autor
 
-- [Juan Camilo Sanchez Echeverri](https://juancamilosanchez.me)
+- [Juan Camilo Sanchez Echeverri](https://juancamilosanchez.tech)
