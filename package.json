@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^6.4.1"
+    "vite": "^6.4.3"
   },
   "dependencies": {
     "underscore": "^1.13.8"
